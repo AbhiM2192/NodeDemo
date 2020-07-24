@@ -1,0 +1,19 @@
+{
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "description": "A basic Node Apl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhiM2192/NodeDemo.git"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbhiM2192/NodeDemo/issues"
+  },
+  "homepage": "https://github.com/AbhiM2192/NodeDemo#readme"
+}
